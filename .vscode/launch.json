@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/lksingh/Documents/eye code",
+      "program": "/Users/lksingh/Documents/eye code/build/Debug/outDebug"
+    }
+  ]
+}
